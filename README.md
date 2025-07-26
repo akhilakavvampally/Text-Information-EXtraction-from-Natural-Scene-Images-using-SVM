@@ -92,4 +92,4 @@ print("Text:", extracted_text)
 
 ## 🧑‍💻 Author
 
-*Developed as part of a minor project on document and text classification.*
+*Developed as part of a minor project Image Processing and Text Extraction.*
